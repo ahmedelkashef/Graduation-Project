@@ -1,1 +1,10 @@
 Main code ;
+
+
+//TOtti
+int SUB(x,y){
+
+return X - y ;
+
+
+}
